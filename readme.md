@@ -1,7 +1,7 @@
 **COMMAND LIST**
 
 - Start jsonserver => json-server --watch db.json --port 3004
-- Start server => nodemon app.js
+- Start server => node app.js
 
 **ENDPOINT LIST**
 
