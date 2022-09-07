@@ -1,0 +1,87 @@
+{
+  "rewards": [
+    {
+      "id": 1,
+      "view": 100,
+      "reward": 50000
+    },
+    {
+      "id": 2,
+      "view": 500,
+      "reward": 75000
+    },
+    {
+      "id": 3,
+      "view": 2500,
+      "reward": 95000
+    },
+    {
+      "id": 4,
+      "view": 5000,
+      "reward": 110000
+    },
+    {
+      "id": 5,
+      "view": 8000,
+      "reward": 145000
+    },
+    {
+      "id": 6,
+      "view": 10000,
+      "reward": 175000
+    },
+    {
+      "id": 7,
+      "view": 12500,
+      "reward": 210000
+    }
+  ],
+  "challenges": [
+    {
+      "id": 1,
+      "title": "Coding for Fun",
+      "brief": "Submit konten yang menginspirasi generasi muda untuk belajar pemrograman.",
+      "budget": 10000000,
+      "remainingBudget": 9925000,
+      "status": "Ended"
+    },
+    {
+      "title": "tes",
+      "brief": "tes",
+      "budget": 50000,
+      "remainingBudget": 0,
+      "status": "Ended",
+      "id": 2
+    }
+  ],
+  "submissions": [
+    {
+      "id": 1,
+      "ChallengeId": 1,
+      "participant": "@dila",
+      "totalViews": 2500,
+      "status": "Approved"
+    },
+    {
+      "participant": "@donnie",
+      "totalViews": 150,
+      "ChallengeId": 1,
+      "status": "Waiting Approval",
+      "id": 2
+    },
+    {
+      "participant": "@neo",
+      "totalViews": 100,
+      "ChallengeId": 2,
+      "status": "Approved",
+      "id": 3
+    },
+    {
+      "participant": "@neo",
+      "totalViews": 100,
+      "ChallengeId": 2,
+      "status": "Waiting Approval",
+      "id": 4
+    }
+  ]
+}
